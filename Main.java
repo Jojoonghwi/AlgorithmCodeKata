@@ -1,4 +1,4 @@
-package 프로그래머스;
+package 바탕화면정리;
 
 public class Main {
     public static void main(String[] args) {
