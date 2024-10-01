@@ -6,7 +6,7 @@ public class Main {
 
         String[] String_arr_a = {"mumu", "soe", "poe", "kai", "mine"};
         String[] String_arr_b = {"kai", "kai", "mine", "mine"};
-
-        solution.solution(String_arr_a);
+        int[][] sizes = {{60, 50} ,{30, 70}, {60, 30}, {80, 40}};
+        solution.solution(sizes);
     }
 }
