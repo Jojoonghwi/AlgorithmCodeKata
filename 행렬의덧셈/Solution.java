@@ -1,4 +1,4 @@
-package Solution;
+package 행렬의덧셈;
 //https://school.programmers.co.kr/learn/courses/30/lessons/12950
 class Solution {
     public int[][] solution(int[][] arr1, int[][] arr2) {
