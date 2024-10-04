@@ -1,5 +1,5 @@
 package 신고결과받기;
-
+//미완성
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
