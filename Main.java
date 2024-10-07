@@ -1,4 +1,4 @@
-package 최댓값과최솟값;
+package JadenCase문자열만들기;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,7 +11,7 @@ public class Main {
         int[] intARR_2 = {1,3,6,7};
         int k=2;
         int n=3;
-        String str="-1 -2 -3 -4";
+        String str=" A";
 
         solution.solution(str);
     }
