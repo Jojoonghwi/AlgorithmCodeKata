@@ -1,4 +1,4 @@
-package JadenCase문자열만들기;
+package 이진변환반복하기;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,7 +11,7 @@ public class Main {
         int[] intARR_2 = {1,3,6,7};
         int k=2;
         int n=3;
-        String str=" A";
+        String str="110010101001";
 
         solution.solution(str);
     }
